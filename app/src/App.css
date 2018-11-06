@@ -1,0 +1,20 @@
+html, body {
+    background-color: #323232;
+    overflow: hidden;
+}
+header {
+    margin-bottom: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: #666666;
+    color: aliceblue;
+}
+section {
+    padding: 20px;
+}
+ section article {
+    border-radius: 5px;
+    padding: 10px;
+}
